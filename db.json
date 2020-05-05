@@ -1,0 +1,26 @@
+{
+  "summerLiteratureList": [
+    {
+      "id": 1,
+      "title": "Гоголь Н.В. 'Майская ночь, или Утопленница'"
+    },
+    {
+      "title": "test",
+      "id": 2
+    },
+    {
+      "title": "test 2 ",
+      "id": 3
+    }
+  ],
+  "topMemesList": [
+    {
+      "id": 1,
+      "title": "Мальчик в пижаме спанч боб"
+    },
+    {
+      "title": "test 2",
+      "id": 2
+    }
+  ]
+}
